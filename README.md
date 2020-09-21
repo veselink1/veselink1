@@ -2,7 +2,7 @@
  
 I'm a passionate developer 👨‍💻 who believes in open source. I'm also a student at the University of Manchester 🎓 in his second year.
 
-![veselink1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veselink1&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
+![veselink1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veselink1&show_icons=true&include_all_commits=true&count_private=true&theme=defaut)
 
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=C%2B%2B)
