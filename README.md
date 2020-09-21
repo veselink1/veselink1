@@ -2,6 +2,8 @@
  
 I'm a passionate developer 👨‍💻 who believes in open source. I'm also a student at the University of Manchester 🎓 in his second year.
 
+![veselink1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veselink1&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
+
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=for-the-badge&logo=C%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
@@ -43,8 +45,6 @@ I'm a passionate developer 👨‍💻 who believes in open source. I'm also a s
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=for-the-badge&logo=Windows)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=for-the-badge&logo=PowerShell)
-
-![veselink1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veselink1&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
 
 Here are some of my projects ⚡:
 
