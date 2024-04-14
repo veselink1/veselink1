@@ -12,8 +12,7 @@ All you need to know is:
 - [FancyWM](https://github.com/FancyWM/fancywm/) - Tiling Window Manager for Windows 10/11 <img src="https://img.shields.io/github/stars/fancywm/FancyWM?style=flat-square&color=green" style="vertical-align:middle">
 - [elfshaker](https://github.com/elfshaker/elfshaker/) - Object Code VCS written in Rust <img src="https://img.shields.io/github/stars/elfshaker/elfshaker?style=flat-square&color=blue" style="vertical-align:middle">
 
-## Get in touch? 🤝
-I am always happy to meet new people!
+## Let's Connect 📫
 <p align="center">
 <a href="https://www.linkedin.com/in/veskokaraganev/"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vesko.karaganev@gmail.com"><img align="center" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
